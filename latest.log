@@ -1,0 +1,341 @@
+[15:00:41] [main/INFO]: ModLauncher running: args [--username, NightCanoe88131, --version, forge-47.4.4, --gameDir, C:\Users\ASUS\curseforge\minecraft\Instances\Grow a Garden (1), --assetsDir, C:\Users\ASUS\curseforge\minecraft\Install\assets, --assetIndex, 5, --uuid, 5996b222904343879ab27061e1afcf45, --accessToken, ????????, --clientId, cd8b84-89fc3d-cd8844-a3360e-9d421f, --xuid, 2535449682939090, --userType, msa, --versionType, release, --width, 1024, --height, 768, , , , , --launchTarget, forgeclient, --fml.forgeVersion, 47.4.4, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[15:00:41] [main/INFO]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Eclipse Adoptium; OS Windows 11 arch amd64 version 10.0
+[15:00:42] [main/INFO]: Loading ImmediateWindowProvider fmlearlywindow
+[15:00:42] [main/INFO]: Trying GL version 4.6
+[15:00:43] [main/INFO]: Requested GL version 4.6 got version 4.6
+[15:00:43] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/ASUS/curseforge/minecraft/Install/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%23100!/ Service=ModLauncher Env=CLIENT
+[15:00:43] [pool-2-thread-1/INFO]: GL info: NVIDIA GeForce RTX 3050 Laptop GPU/PCIe/SSE2 GL version 4.6.0 NVIDIA 576.88, NVIDIA Corporation
+[15:00:43] [main/INFO]: Found mod file alltheleaks-0.1.4-beta+1.20.1-forge.jar of type MOD with provider {mods folder locator at C:\Users\ASUS\curseforge\minecraft\Instances\Grow a Garden (1)\mods}
+[15:00:43] [main/INFO]: Found mod file almanac-1.20.x-forge-1.0.2.jar of type MOD with provider {mods folder locator at C:\Users\ASUS\curseforge\minecraft\Instances\Grow a Garden (1)\mods}
+[15:00:43] [main/INFO]: Found mod file architectury-9.2.14-forge.jar of type MOD with provider {mods folder locator at C:\Users\ASUS\curseforge\minecraft\Instances\Grow a Garden (1)\mods}
+[15:00:43] [main/INFO]: Found mod file BadOptimizations-2.3.0-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\ASUS\curseforge\minecraft\Instances\Grow a Garden (1)\mods}
+[15:00:43] [main/INFO]: Found mod file BiomesOPlenty-1.20.1-18.0.0.592.jar of type MOD with provider {mods folder locator at C:\Users\ASUS\curseforge\minecraft\Instances\Grow a Garden (1)\mods}
+[15:00:43] [main/INFO]: Found mod file Bookshelf-Forge-1.20.1-20.2.13.jar of type MOD with provider {mods folder locator at C:\Users\ASUS\curseforge\minecraft\Instances\Grow a Garden (1)\mods}
+[15:00:43] [main/INFO]: Found mod file Coins-Forge-1.20.1-13.0.3.jar of type MOD with provider {mods folder locator at C:\Users\ASUS\curseforge\minecraft\Instances\Grow a Garden (1)\mods}
+[15:00:43] [main/INFO]: Found mod file crashexploitfixer-forge-1.1.0+1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\ASUS\curseforge\minecraft\Instances\Grow a Garden (1)\mods}
+[15:00:43] [main/INFO]: Found mod file DiagonalFences-v8.1.5-1.20.1-Forge.jar of type MOD with provider {mods folder locator at C:\Users\ASUS\curseforge\minecraft\Instances\Grow a Garden (1)\mods}
+[15:00:43] [main/INFO]: Found mod file easy_npc-forge-1.20.1-5.9.2.jar of type MOD with provider {mods folder locator at C:\Users\ASUS\curseforge\minecraft\Instances\Grow a Garden (1)\mods}
+[15:00:43] [main/INFO]: Found mod file FarmersDelight-1.20.1-1.2.8.jar of type MOD with provider {mods folder locator at C:\Users\ASUS\curseforge\minecraft\Instances\Grow a Garden (1)\mods}
+[15:00:43] [main/INFO]: Found mod file FramedBlocks-9.4.2.jar of type MOD with provider {mods folder locator at C:\Users\ASUS\curseforge\minecraft\Instances\Grow a Garden (1)\mods}
+[15:00:43] [main/INFO]: Found mod file ftb-library-forge-2001.2.9.jar of type MOD with provider {mods folder locator at C:\Users\ASUS\curseforge\minecraft\Instances\Grow a Garden (1)\mods}
+[15:00:43] [main/INFO]: Found mod file ImmediatelyFast-Forge-1.5.1+1.20.4.jar of type MOD with provider {mods folder locator at C:\Users\ASUS\curseforge\minecraft\Instances\Grow a Garden (1)\mods}
+[15:00:43] [main/INFO]: Found mod file Jade-1.20.1-Forge-11.13.1.jar of type MOD with provider {mods folder locator at C:\Users\ASUS\curseforge\minecraft\Instances\Grow a Garden (1)\mods}
+[15:00:43] [main/INFO]: Found mod file jei-1.20.1-forge-15.20.0.112.jar of type MOD with provider {mods folder locator at C:\Users\ASUS\curseforge\minecraft\Instances\Grow a Garden (1)\mods}
+[15:00:43] [main/INFO]: Found mod file konkrete_forge_1.8.0_MC_1.20-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\ASUS\curseforge\minecraft\Instances\Grow a Garden (1)\mods}
+[15:00:43] [main/INFO]: Found mod file Krypton FNP-forge-1.20.1-0.2.20-lite.jar of type MOD with provider {mods folder locator at C:\Users\ASUS\curseforge\minecraft\Instances\Grow a Garden (1)\mods}
+[15:00:43] [main/INFO]: Found mod file letmedespawn-1.20.x-forge-1.5.0.jar of type MOD with provider {mods folder locator at C:\Users\ASUS\curseforge\minecraft\Instances\Grow a Garden (1)\mods}
+[15:00:43] [main/INFO]: Found mod file melody_forge_1.0.3_MC_1.20.1-1.20.4.jar of type MOD with provider {mods folder locator at C:\Users\ASUS\curseforge\minecraft\Instances\Grow a Garden (1)\mods}
+[15:00:43] [main/INFO]: Found mod file moonlight-1.20-2.14.13-forge.jar of type MOD with provider {mods folder locator at C:\Users\ASUS\curseforge\minecraft\Instances\Grow a Garden (1)\mods}
+[15:00:43] [main/INFO]: Found mod file MouseTweaks-forge-mc1.20.1-2.25.1.jar of type MOD with provider {mods folder locator at C:\Users\ASUS\curseforge\minecraft\Instances\Grow a Garden (1)\mods}
+[15:00:43] [main/INFO]: Found mod file notenoughanimations-forge-1.10.1-mc1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\ASUS\curseforge\minecraft\Instances\Grow a Garden (1)\mods}
+[15:00:43] [main/INFO]: Found mod file oculus-mc1.20.1-1.8.0.jar of type MOD with provider {mods folder locator at C:\Users\ASUS\curseforge\minecraft\Instances\Grow a Garden (1)\mods}
+[15:00:43] [main/INFO]: Found mod file Placebo-1.20.1-8.6.3.jar of type MOD with provider {mods folder locator at C:\Users\ASUS\curseforge\minecraft\Instances\Grow a Garden (1)\mods}
+[15:00:43] [main/INFO]: Found mod file PuzzlesLib-v8.1.32-1.20.1-Forge.jar of type MOD with provider {mods folder locator at C:\Users\ASUS\curseforge\minecraft\Instances\Grow a Garden (1)\mods}
+[15:00:43] [main/INFO]: Found mod file sdm-core-forge-2001.3.0.jar of type MOD with provider {mods folder locator at C:\Users\ASUS\curseforge\minecraft\Instances\Grow a Garden (1)\mods}
+[15:00:43] [main/INFO]: Found mod file sdm-market-forge-6.4.1.jar of type MOD with provider {mods folder locator at C:\Users\ASUS\curseforge\minecraft\Instances\Grow a Garden (1)\mods}
+[15:00:43] [main/INFO]: Found mod file sdm_economy-forge-1.20.1-1.7.2.jar of type MOD with provider {mods folder locator at C:\Users\ASUS\curseforge\minecraft\Instances\Grow a Garden (1)\mods}
+[15:00:43] [main/INFO]: Found mod file sdm_ui_lib-forge-1.20.1-1.8.3.jar of type MOD with provider {mods folder locator at C:\Users\ASUS\curseforge\minecraft\Instances\Grow a Garden (1)\mods}
+[15:00:43] [main/INFO]: Found mod file sdmshoprework-forge-1.20.1-6.11-pre.jar of type MOD with provider {mods folder locator at C:\Users\ASUS\curseforge\minecraft\Instances\Grow a Garden (1)\mods}
+[15:00:43] [main/INFO]: Found mod file servercore-forge-1.5.2+1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\ASUS\curseforge\minecraft\Instances\Grow a Garden (1)\mods}
+[15:00:43] [main/INFO]: Found mod file supplementaries-1.20-3.1.36.jar of type MOD with provider {mods folder locator at C:\Users\ASUS\curseforge\minecraft\Instances\Grow a Garden (1)\mods}
+[15:00:43] [main/INFO]: Found mod file TerraBlender-forge-1.20.1-3.0.1.10.jar of type MOD with provider {mods folder locator at C:\Users\ASUS\curseforge\minecraft\Instances\Grow a Garden (1)\mods}
+[15:00:43] [main/INFO]: Found mod file txnilib-forge-1.0.24-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\ASUS\curseforge\minecraft\Instances\Grow a Garden (1)\mods}
+[15:00:43] [main/INFO]: Found mod file Xaeros_Minimap_25.2.6_Forge_1.20.jar of type MOD with provider {mods folder locator at C:\Users\ASUS\curseforge\minecraft\Instances\Grow a Garden (1)\mods}
+[15:00:43] [main/INFO]: Found mod file XaerosWorldMap_1.39.9_Forge_1.20.jar of type MOD with provider {mods folder locator at C:\Users\ASUS\curseforge\minecraft\Instances\Grow a Garden (1)\mods}
+[15:00:43] [main/INFO]: Found mod file XaeroZoomout-Forge-1.20-1.1.0.jar of type MOD with provider {mods folder locator at C:\Users\ASUS\curseforge\minecraft\Instances\Grow a Garden (1)\mods}
+[15:00:44] [main/WARN]: Mod file C:\Users\ASUS\curseforge\minecraft\Install\libraries\net\minecraftforge\fmlcore\1.20.1-47.4.4\fmlcore-1.20.1-47.4.4.jar is missing mods.toml file
+[15:00:44] [main/WARN]: Mod file C:\Users\ASUS\curseforge\minecraft\Install\libraries\net\minecraftforge\javafmllanguage\1.20.1-47.4.4\javafmllanguage-1.20.1-47.4.4.jar is missing mods.toml file
+[15:00:44] [main/WARN]: Mod file C:\Users\ASUS\curseforge\minecraft\Install\libraries\net\minecraftforge\lowcodelanguage\1.20.1-47.4.4\lowcodelanguage-1.20.1-47.4.4.jar is missing mods.toml file
+[15:00:44] [main/WARN]: Mod file C:\Users\ASUS\curseforge\minecraft\Install\libraries\net\minecraftforge\mclanguage\1.20.1-47.4.4\mclanguage-1.20.1-47.4.4.jar is missing mods.toml file
+[15:00:44] [main/INFO]: Found mod file fmlcore-1.20.1-47.4.4.jar of type LIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@d59970a
+[15:00:44] [main/INFO]: Found mod file javafmllanguage-1.20.1-47.4.4.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@d59970a
+[15:00:44] [main/INFO]: Found mod file lowcodelanguage-1.20.1-47.4.4.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@d59970a
+[15:00:44] [main/INFO]: Found mod file mclanguage-1.20.1-47.4.4.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@d59970a
+[15:00:44] [main/INFO]: Found mod file client-1.20.1-20230612.114412-srg.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@d59970a
+[15:00:44] [main/INFO]: Found mod file forge-1.20.1-47.4.4-universal.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@d59970a
+[15:00:44] [main/INFO]: Found 65 dependencies adding them to mods collection
+[15:00:44] [main/INFO]: Found mod file fabric-transfer-api-v1-3.3.5+631c9cd677.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5b84f14
+[15:00:44] [main/INFO]: Found mod file fabric-dimensions-v1-2.1.54+8005d10d77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5b84f14
+[15:00:44] [main/INFO]: Found mod file fabric-renderer-api-v1-3.2.1+cf68abbe77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5b84f14
+[15:00:44] [main/INFO]: Found mod file dazzleconf-core-1.3.0-M2.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5b84f14
+[15:00:44] [main/INFO]: Found mod file imgui-java-lwjgl3-1.88.0.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5b84f14
+[15:00:44] [main/INFO]: Found mod file imgui-java-natives-macos-1.88.0.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5b84f14
+[15:00:44] [main/INFO]: Found mod file fabric-item-api-v1-2.1.28+4d0bbcfa77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5b84f14
+[15:00:44] [main/INFO]: Found mod file fabric-model-loading-api-v1-1.0.3+6274ab9d77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5b84f14
+[15:00:44] [main/INFO]: Found mod file fabric-rendering-fluids-v1-3.0.28+4ac5e37a77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5b84f14
+[15:00:44] [main/INFO]: Found mod file imgui-java-natives-windows-1.88.0.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5b84f14
+[15:00:44] [main/INFO]: Found mod file fabric-screen-handler-api-v1-1.3.30+561530ec77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5b84f14
+[15:00:44] [main/INFO]: Found mod file fabric-models-v0-0.4.2+7c3892a477.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5b84f14
+[15:00:44] [main/INFO]: Found mod file fabric-resource-loader-v0-0.11.10+bcd08ed377.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5b84f14
+[15:00:44] [main/INFO]: Found mod file snakeyaml-2.2.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5b84f14
+[15:00:44] [main/INFO]: Found mod file TRender-1.0.5-1.20.1-forge-SNAPSHOT.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5b84f14
+[15:00:44] [main/INFO]: Found mod file fabric-rendering-v1-3.0.8+66e9a48f77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5b84f14
+[15:00:44] [main/INFO]: Found mod file fabric-renderer-indigo-1.5.2+b5b2da4177.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5b84f14
+[15:00:44] [main/INFO]: Found mod file fabric-loader-2.6.0+0.15.0+1.20.1-full.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5b84f14
+[15:00:44] [main/INFO]: Found mod file fabric-convention-tags-v1-1.5.5+fa3d1c0177.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5b84f14
+[15:00:44] [main/INFO]: Found mod file fabric-mining-level-api-v1-2.1.50+561530ec77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5b84f14
+[15:00:44] [main/INFO]: Found mod file fabric-command-api-v1-1.2.34+f71b366f77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5b84f14
+[15:00:44] [main/INFO]: Found mod file MixinExtras-0.4.1.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5b84f14
+[15:00:44] [main/INFO]: Found mod file fabric-block-view-api-v2-1.0.1+0767707077.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5b84f14
+[15:00:44] [main/INFO]: Found mod file fabric-command-api-v2-2.2.13+561530ec77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5b84f14
+[15:00:44] [main/INFO]: Found mod file fabric-data-attachment-api-v1-1.0.0+30ef839e77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5b84f14
+[15:00:44] [main/INFO]: Found mod file mixinextras-forge-0.4.1.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5b84f14
+[15:00:44] [main/INFO]: Found mod file fabric-screen-api-v1-2.0.8+45a670a577.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5b84f14
+[15:00:44] [main/INFO]: Found mod file fabric-particles-v1-1.1.2+78e1ecb877.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5b84f14
+[15:00:44] [main/INFO]: Found mod file puzzlesaccessapi-forge-20.1.1.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5b84f14
+[15:00:44] [main/INFO]: Found mod file dazzleconf-ext-snakeyaml-1.3.0-M2.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5b84f14
+[15:00:44] [main/INFO]: Found mod file fabric-api-0.92.2+1.11.12+1.20.1.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5b84f14
+[15:00:44] [main/INFO]: Found mod file fabric-content-registries-v0-4.0.11+a670df1e77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5b84f14
+[15:00:44] [main/INFO]: Found mod file Reflect-1.3.4.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5b84f14
+[15:00:44] [main/INFO]: Found mod file fabric-transitive-access-wideners-v1-4.3.1+1880499877.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5b84f14
+[15:00:44] [main/INFO]: Found mod file diagonalblocks-forge-8.0.6.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5b84f14
+[15:00:44] [main/INFO]: Found mod file fabric-game-rule-api-v1-1.0.40+683d4da877.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5b84f14
+[15:00:44] [main/INFO]: Found mod file fabric-api-base-0.4.31+ef105b4977.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5b84f14
+[15:00:44] [main/INFO]: Found mod file fabric-api-lookup-api-v1-1.6.36+67f9824077.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5b84f14
+[15:00:44] [main/INFO]: Found mod file MixinSquared-0.2.0.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5b84f14
+[15:00:44] [main/INFO]: Found mod file fabric-blockrenderlayer-v1-1.1.41+1d0da21e77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5b84f14
+[15:00:44] [main/INFO]: Found mod file mixinsquared-forge-0.2.0.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5b84f14
+[15:00:44] [main/INFO]: Found mod file fabric-block-api-v1-1.0.11+0e6cb7f777.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5b84f14
+[15:00:44] [main/INFO]: Found mod file fabric-resource-conditions-api-v1-2.3.8+9e342fc177.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5b84f14
+[15:00:44] [main/INFO]: Found mod file fabric-item-group-api-v1-4.0.12+c9161c2d77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5b84f14
+[15:00:44] [main/INFO]: Found mod file jcpp-1.4.14.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5b84f14
+[15:00:44] [main/INFO]: Found mod file fabric-biome-api-v1-13.0.13+dc36698e77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5b84f14
+[15:00:44] [main/INFO]: Found mod file fabric-entity-events-v1-1.6.0+4ca7515277.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5b84f14
+[15:00:44] [main/INFO]: Found mod file fabric-registry-sync-v0-2.3.3+1c0ea72177.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5b84f14
+[15:00:44] [main/INFO]: Found mod file fabric-recipe-api-v1-1.0.21+514a076577.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5b84f14
+[15:00:44] [main/INFO]: Found mod file fabric-loot-api-v2-1.2.1+eb28f93e77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5b84f14
+[15:00:44] [main/INFO]: Found mod file fabric-object-builder-api-v1-11.1.3+4bd998fa77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5b84f14
+[15:00:44] [main/INFO]: Found mod file velocity-native-3.4.0-SNAPSHOT.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5b84f14
+[15:00:44] [main/INFO]: Found mod file TRansition-1.0.3-1.20.1-forge-SNAPSHOT.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5b84f14
+[15:00:44] [main/INFO]: Found mod file fabric-rendering-data-attachment-v1-0.3.37+a6081afc77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5b84f14
+[15:00:44] [main/INFO]: Found mod file fabric-networking-api-v1-1.3.11+503a202477.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5b84f14
+[15:00:44] [main/INFO]: Found mod file caffeine-3.2.1.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5b84f14
+[15:00:44] [main/INFO]: Found mod file fabric-sound-api-v1-1.0.13+4f23bd8477.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5b84f14
+[15:00:44] [main/INFO]: Found mod file fabric-message-api-v1-5.1.9+52cc178c77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5b84f14
+[15:00:44] [main/INFO]: Found mod file imgui-java-natives-linux-1.88.0.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5b84f14
+[15:00:44] [main/INFO]: Found mod file imgui-java-binding-1.88.0.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5b84f14
+[15:00:44] [main/INFO]: Found mod file fabric-lifecycle-events-v1-2.2.22+afab492177.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5b84f14
+[15:00:44] [main/INFO]: Found mod file fabric-data-generation-api-v1-12.3.4+369cb3a477.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5b84f14
+[15:00:44] [main/INFO]: Found mod file fabric-events-interaction-v0-0.6.2+0d0bd5a777.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5b84f14
+[15:00:44] [main/INFO]: Found mod file fabric-key-binding-api-v1-1.0.37+561530ec77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5b84f14
+[15:00:44] [main/INFO]: Found mod file fabric-client-tags-api-v1-1.1.2+5d6761b877.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5b84f14
+[15:00:47] [main/INFO]: Compatibility level set to JAVA_17
+[15:00:47] [main/ERROR]: Mixin config fabric-item-api-v1.client.mixins.json does not specify "minVersion" property
+[15:00:47] [main/ERROR]: Mixin config fabric-data-attachment-api-v1.mixins.json does not specify "minVersion" property
+[15:00:47] [main/ERROR]: Mixin config fabric-data-attachment-api-v1.client.mixins.json does not specify "minVersion" property
+[15:00:47] [main/ERROR]: Mixin config crashexploitfixer.mixins.json does not specify "minVersion" property
+[15:00:47] [main/ERROR]: Mixin config fabric-item-group-api-v1.mixins.json does not specify "minVersion" property
+[15:00:47] [main/ERROR]: Mixin config fabric-item-group-api-v1.client.mixins.json does not specify "minVersion" property
+[15:00:47] [main/INFO]: Propagating FML mod list to Fabric Loader
+[15:00:47] [main/INFO]: Launching target 'forgeclient' with arguments [--version, forge-47.4.4, --gameDir, C:\Users\ASUS\curseforge\minecraft\Instances\Grow a Garden (1), --assetsDir, C:\Users\ASUS\curseforge\minecraft\Install\assets, --uuid, 5996b222904343879ab27061e1afcf45, --username, NightCanoe88131, --assetIndex, 5, --accessToken, ????????, --clientId, cd8b84-89fc3d-cd8844-a3360e-9d421f, --xuid, 2535449682939090, --userType, msa, --versionType, release, --width, 1024, --height, 768, , , , ]
+[15:00:47] [main/WARN]: Reference map 'sdm-market-common-refmap.json' for sdm_market-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[15:00:47] [main/WARN]: Reference map 'sdmshoprework-common-refmap.json' for sdmshoprework-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[15:00:48] [main/WARN]: Reference map 'puzzlesaccessapi.common.refmap.json' for puzzlesaccessapi.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[15:00:48] [main/INFO]: Loading 90 mods:
+	- alltheleaks 0.1.4-beta+1.20.1-forge
+		\-- mixinsquared 0.2.0
+	- almanac 1.0.2
+	- architectury 9.2.14
+	- badoptimizations 2.3.0
+	- biomesoplenty 18.0.0.592
+	- bookshelf 20.2.13
+	- coinsje 13.0.3
+	- crashexploitfixer 1.1.0
+	- diagonalfences 8.1.5
+		\-- diagonalblocks 8.0.6
+	- easy_npc 5.9.2
+	- farmersdelight 1.20.1-1.2.8
+	- forge 47.4.4
+	- framedblocks 9.4.2
+	- ftblibrary 2001.2.9
+	- immediatelyfast 1.5.1+1.20.4
+	- jade 11.13.1+forge
+	- jei 15.20.0.112
+	- konkrete 1.8.0
+	- krypton 0.2.20-lite
+		\-- mixinextras 0.4.1
+	- letmedespawn 1.5.0
+	- melody 1.0.2
+	- minecraft 1.20.1
+	- moonlight 1.20-2.14.13
+	- mousetweaks 2.25.1
+	- notenoughanimations 1.10.1
+		|-- transition 1.0.3
+		\-- trender 1.0.5
+	- oculus 1.8.0
+	- placebo 8.6.3
+	- puzzleslib 8.1.32
+		\-- puzzlesaccessapi 20.1.1
+	- sdm_economy 1.20.1-1.7.2
+	- sdm_market 6.4.1
+	- sdm_ui_lib 1.20.1-1.8.3
+	- sdmcore 2001.3.0
+	- sdmshoprework 1.20.1-6.11-pre
+	- servercore 1.5.2+1.20.1
+	- supplementaries 1.20-3.1.36
+	- terrablender 3.0.1.10
+	- txnilib 1.0.24
+		|-- fabric_api 0.92.2+1.11.12+1.20.1
+		|-- fabric_api_base 0.4.31+ef105b4977
+		|-- fabric_api_lookup_api_v1 1.6.36+67f9824077
+		|-- fabric_biome_api_v1 13.0.13+dc36698e77
+		|-- fabric_block_api_v1 1.0.11+0e6cb7f777
+		|-- fabric_block_view_api_v2 1.0.1+0767707077
+		|-- fabric_blockrenderlayer_v1 1.1.41+1d0da21e77
+		|-- fabric_client_tags_api_v1 1.1.2+5d6761b877
+		|-- fabric_command_api_v1 1.2.34+f71b366f77
+		|-- fabric_command_api_v2 2.2.13+561530ec77
+		|-- fabric_content_registries_v0 4.0.11+a670df1e77
+		|-- fabric_convention_tags_v1 1.5.5+fa3d1c0177
+		|-- fabric_data_attachment_api_v1 1.0.0+30ef839e77
+		|-- fabric_data_generation_api_v1 12.3.4+369cb3a477
+		|-- fabric_dimensions_v1 2.1.54+8005d10d77
+		|-- fabric_entity_events_v1 1.6.0+4ca7515277
+		|-- fabric_events_interaction_v0 0.6.2+0d0bd5a777
+		|-- fabric_game_rule_api_v1 1.0.40+683d4da877
+		|-- fabric_item_api_v1 2.1.28+4d0bbcfa77
+		|-- fabric_item_group_api_v1 4.0.12+c9161c2d77
+		|-- fabric_key_binding_api_v1 1.0.37+561530ec77
+		|-- fabric_lifecycle_events_v1 2.2.22+afab492177
+		|-- fabric_loot_api_v2 1.2.1+eb28f93e77
+		|-- fabric_message_api_v1 5.1.9+52cc178c77
+		|-- fabric_mining_level_api_v1 2.1.50+561530ec77
+		|-- fabric_model_loading_api_v1 1.0.3+6274ab9d77
+		|-- fabric_models_v0 0.4.2+7c3892a477
+		|-- fabric_networking_api_v1 1.3.11+503a202477
+		|-- fabric_object_builder_api_v1 11.1.3+4bd998fa77
+		|-- fabric_particles_v1 1.1.2+78e1ecb877
+		|-- fabric_recipe_api_v1 1.0.21+514a076577
+		|-- fabric_registry_sync_v0 2.3.3+1c0ea72177
+		|-- fabric_renderer_api_v1 3.2.1+cf68abbe77
+		|-- fabric_renderer_indigo 1.5.2+b5b2da4177
+		|-- fabric_rendering_data_attachment_v1 0.3.37+a6081afc77
+		|-- fabric_rendering_fluids_v1 3.0.28+4ac5e37a77
+		|-- fabric_rendering_v1 3.0.8+66e9a48f77
+		|-- fabric_resource_conditions_api_v1 2.3.8+9e342fc177
+		|-- fabric_resource_loader_v0 0.11.10+bcd08ed377
+		|-- fabric_screen_api_v1 2.0.8+45a670a577
+		|-- fabric_screen_handler_api_v1 1.3.30+561530ec77
+		|-- fabric_sound_api_v1 1.0.13+4f23bd8477
+		|-- fabric_transfer_api_v1 3.3.5+631c9cd677
+		\-- fabric_transitive_access_wideners_v1 4.3.1+1880499877
+	- xaerominimap 25.2.6
+	- xaeroworldmap 1.39.9
+	- xaerozoomout 1.1.0
+[15:00:48] [main/INFO]: Config version: 4
+[15:00:48] [main/INFO]: BadOptimizations config dump:
+[15:00:48] [main/INFO]: enable_toast_optimizations: true
+[15:00:48] [main/INFO]: ignore_mod_incompatibilities: false
+[15:00:48] [main/INFO]: lightmap_time_change_needed_for_update: 80
+[15:00:48] [main/INFO]: enable_lightmap_caching: true
+[15:00:48] [main/INFO]: enable_particle_manager_optimization: true
+[15:00:48] [main/INFO]: enable_entity_renderer_caching: true
+[15:00:48] [main/INFO]: log_config: true
+[15:00:48] [main/INFO]: enable_remove_redundant_fov_calculations: true
+[15:00:48] [main/INFO]: config_version: 4
+[15:00:48] [main/INFO]: enable_sky_angle_caching_in_worldrenderer: true
+[15:00:48] [main/INFO]: enable_block_entity_renderer_caching: true
+[15:00:48] [main/INFO]: skycolor_time_change_needed_for_update: 3
+[15:00:48] [main/INFO]: enable_entity_flag_caching: true
+[15:00:48] [main/INFO]: enable_debug_renderer_disable_if_not_needed: true
+[15:00:48] [main/INFO]: enable_sky_color_caching: true
+[15:00:48] [main/INFO]: enable_remove_tutorial_if_not_demo: true
+[15:00:48] [main/INFO]: show_f3_text: true
+[15:00:48] [main/INFO]: Patching IForgeItemStack#getEnchantmentLevel
+[15:00:48] [main/INFO]: Patching IForgeItemStack#getEnchantmentLevel
+[15:00:49] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/FluidRenderer (java.lang.ClassNotFoundException: me.jellysquid.mods.sodium.client.render.chunk.compile.pipeline.FluidRenderer)
+[15:00:49] [main/WARN]: Error loading class: mekanism/client/render/entity/RenderFlame (java.lang.ClassNotFoundException: mekanism.client.render.entity.RenderFlame)
+[15:00:49] [main/WARN]: Error loading class: mekanism/client/render/armor/MekaSuitArmor (java.lang.ClassNotFoundException: mekanism.client.render.armor.MekaSuitArmor)
+[15:00:50] [main/INFO]: Skipping issue ItemStackCreationStatistics from mod jei as it's dev only!
+[15:00:50] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.common.mods.travelersbackpack.UntrackedIssue002 will NOT be loaded as mod travelersbackpack is not present
+[15:00:50] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.common.mods.travelersbackpack.UntrackedIssue001 will NOT be loaded as mod travelersbackpack is not present
+[15:00:50] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.common.mods.toolbelt.UntrackedIssue001 will NOT be loaded as mod toolbelt is not present
+[15:00:50] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.common.mods.tfcthermaldeposits.UntrackedIssue001 will NOT be loaded as mod tfcthermaldeposits is not present
+[15:00:50] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.common.mods.smallships.UntrackedIssue001 will NOT be loaded as mod smallships is not present
+[15:00:50] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.common.mods.sereneseasons.UntrackedIssue001 will NOT be loaded as mod sereneseasons is not present
+[15:00:50] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.common.mods.railcraft.UntrackedIssue001 will NOT be loaded as mod railcraft is not present
+[15:00:50] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.common.mods.pneumaticcraft.UntrackedIssue001 will NOT be loaded as mod pneumaticcraft is not present
+[15:00:50] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.common.mods.phosphophyllite.UntrackedIssue001 will NOT be loaded as mod phosphophyllite is not present
+[15:00:50] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.common.mods.occultism.UntrackedIssue001 will NOT be loaded as mod occultism is not present
+[15:00:50] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.common.mods.moonlight.UntrackedIssue001 will be loaded as it matches versions: 1.20-2.14.13 in [1.20-2.13.32,)
+[15:00:50] [main/INFO]: Mixins added to allowed list: [main.FakeLevelManagerMixin]
+[15:00:50] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.common.mods.minecraft.UntrackedIssue002 will be loaded as it matches versions: 1.20.1 in 1.20.1
+[15:00:50] [main/INFO]: Mixins added to allowed list: [main.EntityTickListMixin]
+[15:00:50] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.common.mods.minecraft.UntrackedIssue001 will be loaded as it matches versions: 1.20.1 in 1.20.1
+[15:00:50] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.common.mods.irons_spellbooks.UntrackedIssue001 will NOT be loaded as mod irons_spellbooks is not present
+[15:00:50] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.common.mods.forge.UntrackedIssue003 will be loaded as it matches versions: 47.4.4 in [47.2,)
+[15:00:50] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.common.mods.forge.UntrackedIssue002 will be loaded as it matches versions: 47.4.4 in [47.2,)
+[15:00:50] [main/INFO]: Mixins added to allowed list: [accessor.FakePlayerNetHandlerAccessor, accessor.ConnectionAccessor]
+[15:00:50] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.common.mods.forge.UntrackedIssue001 will be loaded as it matches versions: 47.4.4 in [47.2,)
+[15:00:50] [main/INFO]: Mixins added to allowed list: [main.ServerPlayerMixin, main.PlayerListMixin]
+[15:00:50] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.common.mods.forbidden_arcanus.UntrackedIssue001 will NOT be loaded as mod forbidden_arcanus is not present
+[15:00:50] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.common.mods.domesticationinnovation.UntrackedIssue001 will NOT be loaded as mod domesticationinnovation is not present
+[15:00:50] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.common.mods.curios.UntrackedIssue001 will NOT be loaded as mod curios is not present
+[15:00:50] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.common.mods.createaddition.UntrackedIssue001 will NOT be loaded as mod createaddition is not present
+[15:00:50] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.common.mods.create.UntrackedIssue001 will NOT be loaded as mod create is not present
+[15:00:50] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.common.mods.citadel.UntrackedIssue001 will NOT be loaded as mod citadel is not present
+[15:00:50] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.common.mods.betterf3.UntrackedIssue001 will NOT be loaded as mod betterf3 is not present
+[15:00:50] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.common.mods.badpackets.UntrackedIssue001 will NOT be loaded as mod badpackets is not present
+[15:00:50] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.common.mods.ars_nouveau.UntrackedIssue002 will NOT be loaded as mod ars_nouveau is not present
+[15:00:50] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.common.mods.ars_nouveau.UntrackedIssue001 will NOT be loaded as mod ars_nouveau is not present
+[15:00:50] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.common.mods.architectury.UntrackedIssue001 will be loaded as it matches versions: 9.2.14 in [9.0.8,)
+[15:00:50] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.common.mods.alexsmobs.Issue2165 will NOT be loaded as mod alexsmobs is not present
+[15:00:50] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.common.mods.aether.UntrackedIssue001 will NOT be loaded as mod aether is not present
+[15:00:50] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.common.mods.ae2wtlib.UntrackedIssue001 will NOT be loaded as mod ae2wtlib is not present
+[15:00:50] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.twilightforest.UntrackedIssue001 will NOT be loaded as mod twilightforest is not present
+[15:00:50] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.travelersbackpack.UntrackedIssue001 will NOT be loaded as mod travelersbackpack is not present
+[15:00:50] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.tombstone.UntrackedIssue001 will NOT be loaded as mod tombstone is not present
+[15:00:50] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.sereneseasons.UntrackedIssue001 will NOT be loaded as mod sereneseasons is not present
+[15:00:50] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.pneumaticcraft.UntrackedIssue001 will NOT be loaded as mod pneumaticcraft is not present
+[15:00:50] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.nuclearcraft.UntrackedIssue001 will NOT be loaded as mod nuclearcraft is not present
+[15:00:50] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.mowziesmobs.UntrackedIssue002 will NOT be loaded as mod mowziesmobs is not present
+[15:00:50] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.mowziesmobs.UntrackedIssue001 will NOT be loaded as mod mowziesmobs is not present
+[15:00:50] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.mousetweaks.UntrackedIssue001 will be loaded as it matches versions: 2.25.1 in [2.25.1,)
+[15:00:50] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.mna.UntrackedIssue001 will NOT be loaded as mod mna is not present
+[15:00:50] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.minecraft.UntrackedIssue001 will be loaded as it matches versions: 1.20.1 in 1.20.1
+[15:00:50] [main/INFO]: Mixins added to allowed list: [main.ATLItemStackMixin, main.MinecraftMixin, main.SynchedEntityDataMixin]
+[15:00:50] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.minecraft.EnderDragonLeak will be loaded as it matches versions: 1.20.1 in 1.20.1
+[15:00:50] [main/INFO]: Mixins added to allowed list: [main.EnderDragonRendererMixin, accessor.EnderDragonRendererModelAccessor]
+[15:00:50] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.minecolonies.UntrackedIssue002 will NOT be loaded as mod minecolonies is not present
+[15:00:50] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.minecolonies.UntrackedIssue001 will NOT be loaded as mod minecolonies is not present
+[15:00:50] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.ldlib.UntrackedIssue001 will NOT be loaded as mod ldlib is not present
+[15:00:50] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.journeymap.UntrackedIssue001 will NOT be loaded as mod journeymap is not present
+[15:00:50] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.jeresources.UntrackedIssue001 will NOT be loaded as mod jeresources is not present
+[15:00:50] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.jei.UntrackedIssue002 will NOT be loaded as mod jei does not match versions: 15.20.0.112 in [15.4,15.5)
+[15:00:50] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.jei.UntrackedIssue001 will be loaded as it matches versions: 15.20.0.112 in [15.8.2.24,)
+[15:00:50] [main/INFO]: Mixins added to allowed list: [main.RecipeTransferButtonMixin, main.LazySortedRecipeLayoutListMixin]
+[15:00:50] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.irons_spellbooks.UntrackedIssue002 will NOT be loaded as mod irons_spellbooks is not present
+[15:00:50] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.irons_spellbooks.UntrackedIssue001 will NOT be loaded as mod irons_spellbooks is not present
+[15:00:50] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.iceberg.UntrackedIssue003 will NOT be loaded as mod iceberg is not present
+[15:00:50] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.iceberg.UntrackedIssue002 will NOT be loaded as mod iceberg is not present
+[15:00:50] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.iceberg.UntrackedIssue001 will NOT be loaded as mod iceberg is not present
+[15:00:50] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.geckolib.UntrackedIssue001 will NOT be loaded as mod geckolib is not present
+[15:00:50] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.ftblibrary.UntrackedIssue001 will be loaded as it matches versions: 2001.2.9 in [2001.2.2,)
+[15:00:50] [main/INFO]: Mixins added to allowed list: [accessor.BaseScreenAccessor]
+[15:00:50] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.flywheel.UntrackedIssue001 will NOT be loaded as mod flywheel is not present
+[15:00:50] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.findme.UntrackedIssue001 will NOT be loaded as mod findme is not present
+[15:00:50] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.entity_texture_features.UntrackedIssue001 will NOT be loaded as mod entity_texture_features is not present
+[15:00:50] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.entity_model_features.UntrackedIssue001 will NOT be loaded as mod entity_model_features is not present
+[15:00:50] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.emi_loot.UntrackedIssue001 will NOT be loaded as mod emi_loot is not present
+[15:00:50] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.emi.UntrackedIssue001 will NOT be loaded as mod emi is not present
+[15:00:50] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.easy_villagers.UntrackedIssue001 will NOT be loaded as mod easy_villagers is not present
+[15:00:50] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.difficultylock.UntrackedIssue001 will NOT be loaded as mod difficultylock is not present
+[15:00:50] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.cyclopscore.UntrackedIssue001 will NOT be loaded as mod cyclopscore is not present
+[15:00:50] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.corpse.UntrackedIssue001 will NOT be loaded as mod corpse is not present
+[15:00:50] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.citadel.UntrackedIssue001 will NOT be loaded as mod citadel is not present
+[15:00:50] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.blue_skies.UntrackedIssue001 will NOT be loaded as mod blue_skies is not present
+[15:00:50] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.beansbackpacks.UntrackedIssue001 will NOT be loaded as mod beansbackpacks is not present
+[15:00:50] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.badpackets.UntrackedIssue001 will NOT be loaded as mod badpackets is not present
+[15:00:50] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.ae2wtlib.UntrackedIssue002 will NOT be loaded as mod ae2wtlib is not present
+[15:00:50] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.ae2wtlib.UntrackedIssue001 will NOT be loaded as mod ae2wtlib is not present
+[15:00:50] [main/INFO]: Class dev.uncandango.alltheleaks.fix.common.mods.modernfix.CancelRLMixin will NOT be loaded as mod modernfix is not present
+[15:00:50] [main/INFO]: Skipping feature ResourceLocation Deduplication from mod minecraft as it's feature flag is not activated!
+[15:00:50] [main/INFO]: Skipping feature Ingredient Deduplication from mod minecraft as it's feature flag is not activated!
+[15:00:50] [main/INFO]: Skipping feature Prevent Search Ignored Items from mod jei as it's feature flag is not activated!
+[15:00:50] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[15:00:55] [pool-4-thread-1/INFO]: Patching IForgeItemStack#getEnchantmentLevel
+[15:00:55] [pool-4-thread-1/INFO]: Patching IForgeItemStack#getEnchantmentLevel
+[15:00:55] [pool-4-thread-1/INFO]: Patching IForgeItemStack#getEnchantmentLevel
+[15:00:55] [pool-4-thread-1/INFO]: Patching IForgeItemStack#getEnchantmentLevel
+[15:00:58] [Datafixer Bootstrap/INFO]: 188 Datafixer optimizations took 192 milliseconds
+[15:01:01] [Render thread/WARN]: Error loading class: net/caffeinemc/mods/sodium/api/memory/MemoryIntrinsics (java.lang.ClassNotFoundException: net.caffeinemc.mods.sodium.api.memory.MemoryIntrinsics)
