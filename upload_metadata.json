@@ -1,0 +1,1478 @@
+{
+  "displayName": "Ultimative Vanilla",
+  "changelog": "## Version 1.0.0
+Modpack Created :)",
+  "changelogType": "markdown",
+  "gameVersions": [9990, -1],
+  "releaseType": "release",
+  "isMarkedForManualRelease": true,
+  "relations": {
+    "projects": [
+      {
+      "slug": "mod-678384",
+      "projectID": "678384",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-242223",
+      "projectID": "242223",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-238222",
+      "projectID": "238222",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-639723",
+      "projectID": "639723",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-1159740",
+      "projectID": "1159740",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-886751",
+      "projectID": "886751",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-1160598",
+      "projectID": "1160598",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-523327",
+      "projectID": "523327",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-426558",
+      "projectID": "426558",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-866084",
+      "projectID": "866084",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-452834",
+      "projectID": "452834",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-1005914",
+      "projectID": "1005914",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-401648",
+      "projectID": "401648",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-349559",
+      "projectID": "349559",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-631401",
+      "projectID": "631401",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-570073",
+      "projectID": "570073",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-458048",
+      "projectID": "458048",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-556448",
+      "projectID": "556448",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-351725",
+      "projectID": "351725",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-335493",
+      "projectID": "335493",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-378646",
+      "projectID": "378646",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-835687",
+      "projectID": "835687",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-938917",
+      "projectID": "938917",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-897669",
+      "projectID": "897669",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-1103431",
+      "projectID": "1103431",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-891328",
+      "projectID": "891328",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-656346",
+      "projectID": "656346",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-1070751",
+      "projectID": "1070751",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-583345",
+      "projectID": "583345",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-1111833",
+      "projectID": "1111833",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-985426",
+      "projectID": "985426",
+      "type": "optional"
+    },
+      {
+      "slug": "mod-1238419",
+      "projectID": "1238419",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-272302",
+      "projectID": "272302",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-299540",
+      "projectID": "299540",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-309927",
+      "projectID": "309927",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-666014",
+      "projectID": "666014",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-548647",
+      "projectID": "548647",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-832644",
+      "projectID": "832644",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-915115",
+      "projectID": "915115",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-852665",
+      "projectID": "852665",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-416089",
+      "projectID": "416089",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-677675",
+      "projectID": "677675",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-1191403",
+      "projectID": "1191403",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-289310",
+      "projectID": "289310",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-272515",
+      "projectID": "272515",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-389665",
+      "projectID": "389665",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-594006",
+      "projectID": "594006",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-360203",
+      "projectID": "360203",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-351441",
+      "projectID": "351441",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-1138130",
+      "projectID": "1138130",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-813369",
+      "projectID": "813369",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-838411",
+      "projectID": "838411",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-738663",
+      "projectID": "738663",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-884860",
+      "projectID": "884860",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-500273",
+      "projectID": "500273",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-535960",
+      "projectID": "535960",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-532286",
+      "projectID": "532286",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-243121",
+      "projectID": "243121",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-852662",
+      "projectID": "852662",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-496394",
+      "projectID": "496394",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-324717",
+      "projectID": "324717",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-1271268",
+      "projectID": "1271268",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-566649",
+      "projectID": "566649",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-526854",
+      "projectID": "526854",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-627557",
+      "projectID": "627557",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-352039",
+      "projectID": "352039",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-533570",
+      "projectID": "533570",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-378609",
+      "projectID": "378609",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-233019",
+      "projectID": "233019",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-558905",
+      "projectID": "558905",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-536660",
+      "projectID": "536660",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-225738",
+      "projectID": "225738",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-269024",
+      "projectID": "269024",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-1210171",
+      "projectID": "1210171",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-274259",
+      "projectID": "274259",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-551736",
+      "projectID": "551736",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-278717",
+      "projectID": "278717",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-264738",
+      "projectID": "264738",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-543661",
+      "projectID": "543661",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-268495",
+      "projectID": "268495",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-615352",
+      "projectID": "615352",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-228525",
+      "projectID": "228525",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-398521",
+      "projectID": "398521",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-969423",
+      "projectID": "969423",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-1073197",
+      "projectID": "1073197",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-1119394",
+      "projectID": "1119394",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-456239",
+      "projectID": "456239",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-882495",
+      "projectID": "882495",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-1084673",
+      "projectID": "1084673",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-892382",
+      "projectID": "892382",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-357540",
+      "projectID": "357540",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-1211516",
+      "projectID": "1211516",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-852668",
+      "projectID": "852668",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-326652",
+      "projectID": "326652",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-654373",
+      "projectID": "654373",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-411045",
+      "projectID": "411045",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-892827",
+      "projectID": "892827",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-60089",
+      "projectID": "60089",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-271740",
+      "projectID": "271740",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-368098",
+      "projectID": "368098",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-342584",
+      "projectID": "342584",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-901344",
+      "projectID": "901344",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-256717",
+      "projectID": "256717",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-359540",
+      "projectID": "359540",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-969422",
+      "projectID": "969422",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-385587",
+      "projectID": "385587",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-1003673",
+      "projectID": "1003673",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-561885",
+      "projectID": "561885",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-856996",
+      "projectID": "856996",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-322506",
+      "projectID": "322506",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-1175325",
+      "projectID": "1175325",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-283644",
+      "projectID": "283644",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-237749",
+      "projectID": "237749",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-967466",
+      "projectID": "967466",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-441647",
+      "projectID": "441647",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-1030285",
+      "projectID": "1030285",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-666941",
+      "projectID": "666941",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-429235",
+      "projectID": "429235",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-388172",
+      "projectID": "388172",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-288885",
+      "projectID": "288885",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-790626",
+      "projectID": "790626",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-1140741",
+      "projectID": "1140741",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-404183",
+      "projectID": "404183",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-417645",
+      "projectID": "417645",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-1054538",
+      "projectID": "1054538",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-433760",
+      "projectID": "433760",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-631016",
+      "projectID": "631016",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-407206",
+      "projectID": "407206",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-495336",
+      "projectID": "495336",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-945479",
+      "projectID": "945479",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-453925",
+      "projectID": "453925",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-510089",
+      "projectID": "510089",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-1054545",
+      "projectID": "1054545",
+      "type": "optional"
+    },
+      {
+      "slug": "mod-421850",
+      "projectID": "421850",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-319351",
+      "projectID": "319351",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-852465",
+      "projectID": "852465",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-626761",
+      "projectID": "626761",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-636608",
+      "projectID": "636608",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-1227052",
+      "projectID": "1227052",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-361579",
+      "projectID": "361579",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-1154099",
+      "projectID": "1154099",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-511733",
+      "projectID": "511733",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-533382",
+      "projectID": "533382",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-852671",
+      "projectID": "852671",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-361276",
+      "projectID": "361276",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-551151",
+      "projectID": "551151",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-255308",
+      "projectID": "255308",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-1190275",
+      "projectID": "1190275",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-435044",
+      "projectID": "435044",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-686911",
+      "projectID": "686911",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-1075627",
+      "projectID": "1075627",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-412082",
+      "projectID": "412082",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-871735",
+      "projectID": "871735",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-227639",
+      "projectID": "227639",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-689238",
+      "projectID": "689238",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-857970",
+      "projectID": "857970",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-410295",
+      "projectID": "410295",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-899386",
+      "projectID": "899386",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-1158628",
+      "projectID": "1158628",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-363569",
+      "projectID": "363569",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-348521",
+      "projectID": "348521",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-918840",
+      "projectID": "918840",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-309674",
+      "projectID": "309674",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-220318",
+      "projectID": "220318",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-581495",
+      "projectID": "581495",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-499980",
+      "projectID": "499980",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-876210",
+      "projectID": "876210",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-463155",
+      "projectID": "463155",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-312353",
+      "projectID": "312353",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-662675",
+      "projectID": "662675",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-686435",
+      "projectID": "686435",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-250419",
+      "projectID": "250419",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-1101805",
+      "projectID": "1101805",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-661261",
+      "projectID": "661261",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-331936",
+      "projectID": "331936",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-245755",
+      "projectID": "245755",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-348831",
+      "projectID": "348831",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-1056812",
+      "projectID": "1056812",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-280510",
+      "projectID": "280510",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-316582",
+      "projectID": "316582",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-241160",
+      "projectID": "241160",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-714059",
+      "projectID": "714059",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-912266",
+      "projectID": "912266",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-618298",
+      "projectID": "618298",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-634062",
+      "projectID": "634062",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-682564",
+      "projectID": "682564",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-1203301",
+      "projectID": "1203301",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-658587",
+      "projectID": "658587",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-552176",
+      "projectID": "552176",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-639842",
+      "projectID": "639842",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-891326",
+      "projectID": "891326",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-223852",
+      "projectID": "223852",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-637529",
+      "projectID": "637529",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-240630",
+      "projectID": "240630",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-974401",
+      "projectID": "974401",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-832983",
+      "projectID": "832983",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-1144296",
+      "projectID": "1144296",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-419699",
+      "projectID": "419699",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-930131",
+      "projectID": "930131",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-879879",
+      "projectID": "879879",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-979761",
+      "projectID": "979761",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-317780",
+      "projectID": "317780",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-593981",
+      "projectID": "593981",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-659011",
+      "projectID": "659011",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-887484",
+      "projectID": "887484",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-532727",
+      "projectID": "532727",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-517272",
+      "projectID": "517272",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-438116",
+      "projectID": "438116",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-852669",
+      "projectID": "852669",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-400933",
+      "projectID": "400933",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-455585",
+      "projectID": "455585",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-663658",
+      "projectID": "663658",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-897116",
+      "projectID": "897116",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-454372",
+      "projectID": "454372",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-878379",
+      "projectID": "878379",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-502372",
+      "projectID": "502372",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-1090999",
+      "projectID": "1090999",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-967126",
+      "projectID": "967126",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-896746",
+      "projectID": "896746",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-563928",
+      "projectID": "563928",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-394535",
+      "projectID": "394535",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-857971",
+      "projectID": "857971",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-666940",
+      "projectID": "666940",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-1028108",
+      "projectID": "1028108",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-263420",
+      "projectID": "263420",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-1115285",
+      "projectID": "1115285",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-318602",
+      "projectID": "318602",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-574622",
+      "projectID": "574622",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-1106612",
+      "projectID": "1106612",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-1191080",
+      "projectID": "1191080",
+      "type": "optional"
+    },
+      {
+      "slug": "mod-526901",
+      "projectID": "526901",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-574409",
+      "projectID": "574409",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-495476",
+      "projectID": "495476",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-237307",
+      "projectID": "237307",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-1264423",
+      "projectID": "1264423",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-962544",
+      "projectID": "962544",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-1104882",
+      "projectID": "1104882",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-827163",
+      "projectID": "827163",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-841262",
+      "projectID": "841262",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-916747",
+      "projectID": "916747",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-594013",
+      "projectID": "594013",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-955399",
+      "projectID": "955399",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-623764",
+      "projectID": "623764",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-908741",
+      "projectID": "908741",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-465575",
+      "projectID": "465575",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-968868",
+      "projectID": "968868",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-438332",
+      "projectID": "438332",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-390717",
+      "projectID": "390717",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-817651",
+      "projectID": "817651",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-1201803",
+      "projectID": "1201803",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-693313",
+      "projectID": "693313",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-520110",
+      "projectID": "520110",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-551894",
+      "projectID": "551894",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-593996",
+      "projectID": "593996",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-351264",
+      "projectID": "351264",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-852663",
+      "projectID": "852663",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-676136",
+      "projectID": "676136",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-682566",
+      "projectID": "682566",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-521590",
+      "projectID": "521590",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-682567",
+      "projectID": "682567",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-353942",
+      "projectID": "353942",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-413079",
+      "projectID": "413079",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-930232",
+      "projectID": "930232",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-395620",
+      "projectID": "395620",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-378802",
+      "projectID": "378802",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-309516",
+      "projectID": "309516",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-961108",
+      "projectID": "961108",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-1146393",
+      "projectID": "1146393",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-278141",
+      "projectID": "278141",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-422301",
+      "projectID": "422301",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-1163800",
+      "projectID": "1163800",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-931925",
+      "projectID": "931925",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-577805",
+      "projectID": "577805",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-689630",
+      "projectID": "689630",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-867237",
+      "projectID": "867237",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-531761",
+      "projectID": "531761",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-1051658",
+      "projectID": "1051658",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-1088877",
+      "projectID": "1088877",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-852667",
+      "projectID": "852667",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-243076",
+      "projectID": "243076",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-549225",
+      "projectID": "549225",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-845615",
+      "projectID": "845615",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-852670",
+      "projectID": "852670",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-1079896",
+      "projectID": "1079896",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-915308",
+      "projectID": "915308",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-949555",
+      "projectID": "949555",
+      "type": "optional"
+    },
+      {
+      "slug": "mod-936015",
+      "projectID": "936015",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-400514",
+      "projectID": "400514",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-491290",
+      "projectID": "491290",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-629153",
+      "projectID": "629153",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-539057",
+      "projectID": "539057",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-1269169",
+      "projectID": "1269169",
+      "type": "requiredDependency"
+    },
+      {
+      "slug": "mod-890755",
+      "projectID": "890755",
+      "type": "requiredDependency"
+    }
+    ]
+  }
+}
